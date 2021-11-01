@@ -12,7 +12,7 @@ async function getApi(api) {
 }
 
 function aWaitingGif() {
-    infoDiv.innerHTML = `<img id="waitGif" src="../../רקעים/waitingGif.gif" width="400px" height="500p">`
+    infoDiv.innerHTML = `<img id="waitGif" src="./images/waitingGif.gif" width="400px" height="500p">`
 }
 
 aButt.onclick = () => {
